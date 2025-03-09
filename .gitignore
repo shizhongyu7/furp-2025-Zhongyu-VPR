@@ -1,0 +1,21 @@
+# 编译产生的文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+env/
+
+# 日志和临时文件
+*.log
+*.out
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/编辑器文件
+.vscode/
+.idea/
