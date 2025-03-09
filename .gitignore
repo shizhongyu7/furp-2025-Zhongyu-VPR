@@ -5,7 +5,7 @@ __pycache__/
 *.pyd
 
 # 虚拟环境
-venv/
+.venv/
 env/
 
 # 日志和临时文件
@@ -17,5 +17,5 @@ env/
 .ipynb_checkpoints/
 
 # IDE/编辑器文件
-.vscode/
+.vscode
 .idea/
